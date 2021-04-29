@@ -1,7 +1,7 @@
-# Kodluyoruz Ilk Repo
+# **Kodluyoruz Ilk Repo**
 Bu repo [Kodluyoruz](https://www.patika.dev/egitimler/frontend-web-development-patikasi) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-## Installation
+## **Installation**
 Öncellikle projeyi clonelayın.
 
 ```
@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.patika.dev/egitimler/frontend-web-development-p
  
  ```
 
-## Usage
+## **Usage**
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -20,4 +20,12 @@ code .
  
  ```
 
- ## Cont
+ ## **Contributing**
+ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce nereyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+ ## **License**
+ [MIT](https://github.com/elifsirin42/kodluyoruzilkrepo/blob/main/LICENSE)
+
+ ## **Proje Resmi**
+ ![Projenizin Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
